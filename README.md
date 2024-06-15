@@ -1,15 +1,19 @@
-<h1 align="center" style="animation: slideIn 2s;">Hello Visitor👋!</h1>
+
+<h1 align="center" style="animation: slideIn 2s;">Hello Visitor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Good%20to%20see%20you!&center=true&width=500&height=50"></a>
+</p>
 
 ###
-<h2 align="left">👩‍💻  About Me</h2>
 
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
 <img align="right" height="250" src="./resources/rick&mortyWallpaper.gif"/>
 
 
-<p align="left"><br><br>🔭 Backend developer in progress and looking forward to adquire cybersecurity knowledge. <br><br><br>📚 Currently studying at UTN (Universidad Tecnológica Nacional) in Mar del Plata, Argentina.<br><br><br>🍀 In my free time I aim to maintain a healthy lifestyle.<br><br><br></p>
+<p align="left"><br><br>🔭 Backend developer in progress and looking forward to adquire cybersecurity knowledge. <br><br><br>📚 Currently studying at UTN (Universidad Tecnológica Nacional)<br> in Mar del Plata, Argentina.<br><br>🍀 In my free time I aim to maintain a healthy lifestyle.<br><br><br></p>
 
 ###
 
