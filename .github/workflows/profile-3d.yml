@@ -10,7 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
+    - name: Check for recent contributions
+        id: check_contributions
+        run: |
+          user="Fabri-dev"
+          last_run_time=$(jq -r '.jobs.build.started_at' $GITHUB_EVENT_PATH)
+          response=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/users/$user/events")
+          recent_contributions=$(echo "$response" | jq "[.[] | select(.created_at > \"$last_run_time\" and .type == \"PushEvent\")] | length")
+
+          echo "::set-output name=recent_contributions::$recent_contributions"
+
+      - name: Stop if no recent contributions
+        if: steps.check_contributions.outputs.recent_contributions == '0'
+        run: |
+          echo "No recent contributions found. Exiting..."
+          exit 0
+          
       - uses: actions/checkout@v3
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
