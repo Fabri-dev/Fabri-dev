@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">.<br>🔭 Working to be a backend devolper with a little bit of cybersecurity. <br><br><br>📚 Currently studying at UTN (Universidad Tecnologica Nacional).<br><br><br>⚡ In my free time I train to have a healthy lifestyle.</p>
+<p align="left"><br>🔭 Working to be a backend devolper with a little bit of cybersecurity. <br><br><br>📚 Currently studying at UTN (Universidad Tecnologica Nacional).<br><br><br>🍀 In my free time I aim to maintain a healthy lifestyle.</p>
 
 ###
 
