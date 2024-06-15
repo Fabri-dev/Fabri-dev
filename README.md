@@ -1,7 +1,7 @@
 
 <h1 align="center" style="animation: slideIn 2s;">Hello Visitor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Good%20to%20see%20you!&center=true&width=500&height=50"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=47CAFF&center=true&vCenter=true&random=false&width=750&lines=Good+to+see+you!;Backend+developer;Aguante+Argentina+Carajo!!!" alt="Typing SVG" /></a>
 </p>
 
 ###
