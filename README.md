@@ -1,46 +1,45 @@
 <h1 align="center" style="animation: slideIn 2s;">Hello Visitor👋!</h1>
 
 ###
+<h2 align="left">👩‍💻  About Me</h2>
 
-<img align="right" height="250" src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-658.gif"/>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left"><br>🔭 Working to be a backend devolper with a little bit of cybersecurity. <br><br><br>📚 Currently studying at UTN (Universidad Tecnologica Nacional).<br><br><br>🍀 In my free time I aim to maintain a healthy lifestyle.</p>
+<img align="right" height="250" src="./resources/rick&mortyWallpaper.gif"/>
+
+
+<p align="left"><br><br>🔭 Working to be a backend devolper with a little bit of cybersecurity. <br><br><br>📚 Currently studying at UTN (Universidad Tecnologica Nacional).<br><br><br>🍀 In my free time I aim to maintain a healthy lifestyle.<br><br><br></p>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h2 align="left">🛠 Language and Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
