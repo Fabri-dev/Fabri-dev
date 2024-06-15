@@ -3,7 +3,6 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 
