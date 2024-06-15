@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Descripción de la imagen" height="300" width="300"/>
 
 
 
