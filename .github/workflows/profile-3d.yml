@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-    - name: Check for recent contributions
+      - name: Check for recent contributions
+        id: check_contributions
         run: |
           user="Fabri-dev"
           last_run_time=$(jq -r '.jobs.build.started_at' $GITHUB_EVENT_PATH)
