@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello 👋
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+
 <!--
 **Fabri-dev/Fabri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
