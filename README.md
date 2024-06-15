@@ -1,4 +1,4 @@
-<h1 align="center">Hello Visitor👋!</h1>
+<h1 align="center" style="animation: slideIn 2s;">Hello Visitor👋!</h1>
 
 ###
 
