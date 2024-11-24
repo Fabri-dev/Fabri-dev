@@ -35,7 +35,7 @@
 
 ###
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Descripción de la imagen"/>
+<img height="420px" width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Descripción de la imagen"/>
 
 
 
