@@ -13,7 +13,7 @@
 <img align="right" height="250" src="./resources/rick&mortyWallpaper.gif"/>
 
 <p align="left"><br>🔭 Backend developer in progress and looking forward to adquire cybersecurity knowledge. <br><br><br>
-  📚 Currently studying at UTN (Universidad Tecnológica Nacional) in Mar del Plata, Argentina.<br><br><br>
+  📚 Currently studying at UAA (Universidad Atlantida Argentina) and graduated from UTN (Universidad Tecnológica Nacional) in Mar del Plata, Argentina.<br><br><br>
   🍀 In my free time I aim to maintain a healthy lifestyle.<br><br><br>
 </p>
 
